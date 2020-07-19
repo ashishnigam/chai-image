@@ -35,7 +35,7 @@
   "devDependencies": {
     "@types/chai": "4.2.11",
     "@types/mkdirp": "0.5.2",
-    "@types/mocha": "5.2.7",
+    "@types/mocha": "8.0.0",
     "@types/node": "8.10.61",
     "@types/pixelmatch": "5.2.1",
     "@types/pngjs": "3.4.2",
@@ -45,7 +45,7 @@
     "chai": "4.2.0",
     "del": "5.1.0",
     "husky": "4.2.5",
-    "mocha": "6.2.3",
+    "mocha": "8.0.1",
     "ts-node": "8.10.2",
     "tslint": "5.20.1",
     "typescript": "3.9.7"
